@@ -1,7 +1,7 @@
 ## 💰 PyVert - Converter Mata Uang 💰
 Aplikasi berbasis CLI dibuat dengan Bahasa Pemrograman Python sebagai Tugas Akhir Semester 1 Mata Kuliah Dasar Pemrograman dengan Bahasa Pemrograman Python.
 
-![](https://raw.githubusercontent.com/andikatuluspangestu/pyvert/main/assets/Screenshot_2021-10-29_16-32-35.png)
+![](https://raw.githubusercontent.com/andikatuluspangestu/pyvert/main/assets/Screenshot_2021-10-29_16-32-35.png?token=AOZB7ZO7A65UFGK7OKQKAP3BTBNIK)
 
 ### 🕵️‍♂️ Author
 - 12210940 Andika Tulus Pangestu        
