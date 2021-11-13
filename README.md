@@ -14,7 +14,7 @@ Aplikasi berbasis CLI dibuat dengan Bahasa Pemrograman Python sebagai Tugas Akhi
 - Python 3.x.x
 - Python PIP 21.x.x
 
-### 🚀 Tutorial Pembuatan
+### 🚀 Dokumentasi
 - Github Pages [Mulai Membaca]()
 - Medium       [Mulai Membaca]()
 
