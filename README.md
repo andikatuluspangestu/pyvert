@@ -2,12 +2,14 @@ PyVert merupakan aplikasi yang berjalan pada Command Line Interface ( CLI ),
 tidak seperti aplikasi CLI pada umumnya, aplikasi kami memfokuskan pada  
 fungsi dan tampilan aplikasi.
 
-![](https://raw.githubusercontent.com/andikatuluspangestu/pyvert/main/assets/Screenshot_2021-10-29_16-32-35.png?token=AOZB7ZO7A65UFGK7OKQKAP3BTBNIK)
+<img src="https://raw.githubusercontent.com/andikatuluspangestu/pyvert/main/assets/Screenshot_2021-10-29_16-32-35.png?token=AOZB7ZO7A65UFGK7OKQKAP3BTBNIK" style="border-radius: 15px !important></img>
 
 ### 🎥 Demo Aplikasi
 Anda bisa mencoba program kami secara langsung dibawah ini.  
 
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@andikatuluspang/PyVert-Andika?embed=true" style="border-radius: 15px !important;"></iframe>  
+
+### Link Demo : [https://replit.com/@andikatuluspang/PyVert-Andika](https://replit.com/@andikatuluspang/PyVert-Andika#main.py)
 
 ---
 
