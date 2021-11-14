@@ -15,8 +15,7 @@ Aplikasi berbasis CLI dibuat dengan Bahasa Pemrograman Python sebagai Tugas Akhi
 - Python PIP 21.x.x
 
 ### 🚀 Dokumentasi
-- Github Pages [Mulai Membaca]()
-- Medium       [Mulai Membaca]()
+- Github Pages [Mulai Membaca](https://github.com/andikatuluspangestu/pyvert/blob/master/Docs/index.md)
 
 ### 🔭 Reference & Tools
 - Archcraft Distro Linux
