@@ -1,8 +1,11 @@
+
+<img src="https://blog.flamingtext.com/blog/2021/11/14/flamingtext_com_1636873159_242003471.png" width="586">
+
 PyVert merupakan aplikasi yang berjalan pada Command Line Interface ( CLI ),  
 tidak seperti aplikasi CLI pada umumnya, aplikasi kami memfokuskan pada  
 fungsi dan tampilan aplikasi.
 
-<img src="https://raw.githubusercontent.com/andikatuluspangestu/pyvert/main/assets/Screenshot_2021-10-29_16-32-35.png?token=AOZB7ZO7A65UFGK7OKQKAP3BTBNIK" style="border-radius: 15px !important>
+---
 
 ### 🎥 Demo Aplikasi
 Anda bisa mencoba program kami secara langsung dibawah ini.  
