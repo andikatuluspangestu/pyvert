@@ -1,5 +1,8 @@
 ## 💰 PyVert - Converter Mata Uang 💰
-Aplikasi berbasis CLI dibuat dengan Bahasa Pemrograman Python sebagai Tugas Akhir Semester 1 Mata Kuliah Dasar Pemrograman dengan Bahasa Pemrograman Python.
+
+PyVert merupakan program yang berjalan pada Command Line Interface ( CLI ),  
+tidak seperti aplikasi CLI pada umumnya, aplikasi kami memfokuskan pada  
+fungsi dan tampilan aplikasi.
 
 ![](https://raw.githubusercontent.com/andikatuluspangestu/pyvert/main/assets/Screenshot_2021-10-29_16-32-35.png?token=AOZB7ZO7A65UFGK7OKQKAP3BTBNIK)
 
@@ -10,12 +13,64 @@ Aplikasi berbasis CLI dibuat dengan Bahasa Pemrograman Python sebagai Tugas Akhi
 - 12210670 Nur Syifa Amelia             
 - 12211000 Muhammad Ali Faatikh Riziq 
 
-### 💡 Persyaratan Sistem
+---
+
+### 💡 Persyaratan Penggunaan dan Sistem
+
+Kami menggunakan beberapa persayaratan Sistem, sebagai berikut.
+
+- Windows / Linux / Mac
 - Python 3.x.x
 - Python PIP 21.x.x
 
-### 🚀 Dokumentasi
-- Github Pages [Mulai Membaca](https://github.com/andikatuluspangestu/pyvert/blob/master/Docs/index.md)
+---
+
+### 🚀 Dokumentasi Instalasi
+
+**Cara Instalasi dan Penggunaan Aplikasi PyVert di semua platfoms.**  
+Dokumentasi ini mengharuskan pengetahuan Anda berada di tingkat dasar atau menengah tentang Python 3 dan CLI.
+
+> Metode Pertama
+
+- Unduh Rilis Paket Terbaru di [Github PyVert Release]()
+- Ekstrak Archive file paket PyVert : ``pyvert-v1.0.zip``
+- Buka folder tempat penyimpanan paket yang telah di unduh.
+
+```bash
+
+$ cd Downloads
+$ unzip pyvert-v1.0.zip
+
+```
+
+- Buka folder hasil ekstrak yaitu folder ``pyvert-v1.0``
+- Lalu, jalankan Program-nya.
+
+```bash
+
+$ cd pyvert-v1.0
+$ python app.py
+
+```
+
+> Metode Kedua
+
+- Clone Repository Github
+
+```bash
+$ git clone https://github.com/andikatuluspangestu/pyvert
+```
+
+- Buka folder hasil ekstrak yaitu folder ``pyvert``
+- Lalu, jalankan Program-nya.
+
+```bash
+
+$ cd pyvert
+$ python app.py
+
+```
+---
 
 ### 🔭 Reference & Tools
 - Archcraft Distro Linux
@@ -27,5 +82,7 @@ Aplikasi berbasis CLI dibuat dengan Bahasa Pemrograman Python sebagai Tugas Akhi
 - W3School
 - Github
 
-### 🔐 Lisensi
+---
+
+&copy; 2021 - Mahasiswa D3 Sistem Informasi Universitas BSI PSDKU Kota Tegal  
 This Application is OpenSource under MIT License
