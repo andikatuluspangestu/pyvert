@@ -15,7 +15,7 @@ fungsi dan tampilan aplikasi.
 
 ### 💡 Persyaratan Penggunaan dan Sistem
 
-Kami menggunakan beberapa persayaratan Sistem, sebagai berikut.
+Kami menggunakan beberapa persyaratan Sistem, sebagai berikut.
 
 - Windows / Linux / Mac
 - Python 3.x.x
