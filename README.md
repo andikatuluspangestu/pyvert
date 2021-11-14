@@ -8,7 +8,7 @@ fungsi dan tampilan aplikasi.
 Anda bisa mencoba program kami secara langsung melalui tautan berikut.  
 [Lihat Demo](https://replit.com/@andikatuluspang/PyVert-Andika#main.py)
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@andikatuluspang/PyVert-Andika?embed=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@andikatuluspang/PyVert-Andika?lite=true"></iframe>
 
 ### 🕵️‍♂️ Pengembang Aplikasi
 - 12210940 Andika Tulus Pangestu        
