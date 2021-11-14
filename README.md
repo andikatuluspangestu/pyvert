@@ -5,10 +5,11 @@ fungsi dan tampilan aplikasi.
 ![](https://raw.githubusercontent.com/andikatuluspangestu/pyvert/main/assets/Screenshot_2021-10-29_16-32-35.png?token=AOZB7ZO7A65UFGK7OKQKAP3BTBNIK)
 
 ### 🎥 Demo Aplikasi
-Anda bisa mencoba program kami secara langsung melalui tautan berikut.  
-[Lihat Demo](https://replit.com/@andikatuluspang/PyVert-Andika#main.py)
+Anda bisa mencoba program kami secara langsung dibawah ini.  
 
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@andikatuluspang/PyVert-Andika?embed=true" style="border-radius: 15px !important;"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@andikatuluspang/PyVert-Andika?embed=true" style="border-radius: 15px !important;"></iframe>  
+
+---
 
 ### 🕵️‍♂️ Pengembang Aplikasi
 - 12210940 Andika Tulus Pangestu        
