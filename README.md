@@ -30,7 +30,7 @@ Dokumentasi ini mengharuskan pengetahuan Anda berada di tingkat dasar atau menen
 
 > Metode Pertama
 
-- Unduh Rilis Paket Terbaru di [Github PyVert Release]()
+- Unduh Rilis Paket Terbaru di [Github PyVert Release](https://github.com/andikatuluspangestu/pyvert/archive/refs/tags/pyvert-v1.0.zip)
 - Ekstrak Archive file paket PyVert : ``pyvert-v1.0.zip``
 - Buka folder tempat penyimpanan paket yang telah di unduh.
 
