@@ -1,12 +1,10 @@
-## 💰 PyVert - Converter Mata Uang 💰
-
 PyVert merupakan program yang berjalan pada Command Line Interface ( CLI ),  
 tidak seperti aplikasi CLI pada umumnya, aplikasi kami memfokuskan pada  
 fungsi dan tampilan aplikasi.
 
 ![](https://raw.githubusercontent.com/andikatuluspangestu/pyvert/main/assets/Screenshot_2021-10-29_16-32-35.png?token=AOZB7ZO7A65UFGK7OKQKAP3BTBNIK)
 
-### 🕵️‍♂️ Author
+### 🕵️‍♂️ Developer
 - 12210940 Andika Tulus Pangestu        
 - 12211073 Rani oktariani               
 - 12211048 Salsabilah N.F.A.           
