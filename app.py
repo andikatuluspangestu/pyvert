@@ -39,7 +39,7 @@ def proses():
     # Dollar ke Rupiah
     if ( pilihanUser == 1 ):
         def dollar_ke_rupiah():
-            dollar = int(input("Masukan Nominal Dollar : "))
+            dollar = float(input("Masukan Nominal Dollar : "))
             dollarRupiah = dollar * 15000 
             print(f"Jadi {dollar} Dollar bernilai {formatrupiah(dollarRupiah)}")
         dollar_ke_rupiah()
@@ -47,7 +47,7 @@ def proses():
     # Rupiah ke Dollar  
     elif ( pilihanUser == 2 ): 
         def rupiah_ke_dollar():
-            rupiah = int(input("Masukan Nominal Rupiah : "))
+            rupiah = float(input("Masukan Nominal Rupiah : "))
             rupiahDollar = rupiah / float(15000) 
             print(f"Jadi {rupiah} Rupiah bernilai {round(rupiahDollar, 2)} Dollar")
         rupiah_ke_dollar()
@@ -55,7 +55,7 @@ def proses():
     # Euro ke Rupiah
     elif ( pilihanUser == 3 ):
         def euro_ke_rupiah():
-            euro = int(input("Masukan Nominal Euro : "))
+            euro = float(input("Masukan Nominal Euro : "))
             euroRupiah = euro * 16616 
             print(f"Jadi {euro} Euro bernilai {formatrupiah(euroRupiah)}")
         euro_ke_rupiah()
@@ -63,7 +63,7 @@ def proses():
     # Rupiah ke Euro
     elif ( pilihanUser == 4 ):
         def rupiah_ke_euro():
-            rupiah = int(input("Masukan Nominal Rupiah : "))
+            rupiah = float(input("Masukan Nominal Rupiah : "))
             rupiahEuro = rupiah / float(16616)
             print(f"Jadi {rupiah} Rupiah bernilai {round(rupiahEuro, 2)} Euro") 
         rupiah_ke_euro()
@@ -71,7 +71,7 @@ def proses():
     # Riyal ke Rupiah
     elif ( pilihanUser == 5 ):
         def riyal_ke_rupiah():
-            riyal = int(input("Masukan Nominal Riyal : "))
+            riyal = float(input("Masukan Nominal Riyal : "))
             riyalRupiah = riyal * 3817 
             print(f"Jadi {riyal} Riyal bernilai {formatrupiah(riyalRupiah)}")
         riyal_ke_rupiah()
@@ -80,7 +80,7 @@ def proses():
     # Rupiah ke Riyal
     elif ( pilihanUser == 6 ):
         def rupiah_ke_riyal():
-            rupiah = int(input("Masukan Nominal Rupiah : "))
+            rupiah = float(input("Masukan Nominal Rupiah : "))
             rupiahRiyal = rupiah / float(3817) 
             print(f"Jadi {rupiah} Rupiah bernilai {round(rupiahRiyal, 2)} Riyal")
         rupiah_ke_riyal()
