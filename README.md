@@ -4,13 +4,6 @@ Mata Kuliah Dasar Pemrograman dengan Bahasa Pemrograman Python.
 
 ![](https://raw.githubusercontent.com/andikatuluspangestu/pyvert/main/assets/Screenshot_2021-10-29_16-32-35.png?token=AOZB7ZO7A65UFGK7OKQKAP3BTBNIK)
 
-### 🕵️‍♂️ Author
-- 12210940 Andika Tulus Pangestu        
-- 12211073 Rani oktariani               
-- 12211048 Salsabilah N.F.A.           
-- 12210670 Nur Syifa Amelia             
-- 12211000 Muhammad Ali Faatikh Riziq 
-
 ### 💡 Persyaratan Sistem
 - Python 3.x.x
 - Python PIP 21.x.x
